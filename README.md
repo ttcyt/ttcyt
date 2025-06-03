@@ -1,3 +1,4 @@
+ ![gif](https://github.com/user-attachments/assets/b29b0d2a-2ce6-4b3b-9f45-f834bb098039)
 # 💫 About Me:
 🔭 I’m currently working on official_ntue_student_hub<br>🌱 I’m currently learning FCM<br>
 
